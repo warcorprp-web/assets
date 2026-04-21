@@ -1,1 +1,11 @@
-
+{
+    "name": "EcoMining Token",
+    "type": "POLYGON",
+    "symbol": "ECO",
+    "decimals": 18,
+    "website": "https://eco.trovu.tech",
+    "description": "Earn crypto by saving energy. Proof of Savings rewards users for reducing electricity consumption.",
+    "explorer": "https://polygonscan.com/token/0xa9C9a94200Aed007CFf8c3Eb0e2AA942Ddfd7cBD",
+    "status": "active",
+    "id": "0xa9C9a94200Aed007CFf8c3Eb0e2AA942Ddfd7cBD"
+}
